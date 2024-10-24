@@ -1,0 +1,10 @@
+{
+  "private": {
+    "palette": {
+      "blitz": {
+        "$type": "color",
+        "$value": "#07abbf"
+      }
+    }
+  }
+}
