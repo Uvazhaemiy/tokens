@@ -1,9 +1,13 @@
 {
   "private": {
     "palette": {
-      "blitz": {
+      "blitz-2": {
         "$type": "color",
         "$value": "#07abbf"
+      },
+      "sosiska": {
+        "$type": "color",
+        "$value": "#5608bf"
       }
     }
   }
