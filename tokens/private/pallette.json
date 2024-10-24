@@ -6,8 +6,10 @@
         "$value": "#a2bf08"
       },
       "sardelka": {
-        "$type": "color",
-        "$value": "#5608bf"
+        "bold": {
+          "$type": "color",
+          "$value": "#5608bf"
+        }
       }
     }
   }
